@@ -8,3 +8,5 @@ I've been looking around for quiet some time lately for a Facebook Messenger UI 
 The free kit is not just a design clone, it's actually a well organized Sketch Library as well. It contains icons, colors, components, spacing elements, etc. 
 
 Will do my very best to update the kit regularly so it stays updated. Don't hesitate to contribute.
+
+![alt text](https://dribbble.s3.amazonaws.com/users/921339/screenshots/6971380/artboard_copy.jpg?1565537911340 "Facebook Messenger UI Kit for Android — Free (Version 2019)")
